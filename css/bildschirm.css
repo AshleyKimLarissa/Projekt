@@ -184,6 +184,8 @@ border-color: #05a0fa;}
     .col-sm-4 {
       text-align: center;
       margin: 25px 0;
+         display: grid; 
+         grid-template-columns: 1fr 1fr;
     }
     .btn-lg {
         width: 100%;
