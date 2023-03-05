@@ -186,8 +186,7 @@ border-color: #05a0fa;}
       margin: 25px 0;
          display: grid; 
          grid-template-columns: 1fr 1fr;
-            grid-row-start: 2;
-            grid-row-end: span 2;
+             grid-template-rows: 1fr 1fr; 
     }
     .btn-lg {
         width: 100%;
