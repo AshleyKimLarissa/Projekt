@@ -130,10 +130,10 @@ h1 {
       color: #fff;
   }
 .farbe{background-color: #ab82ff;
-border-color: #05a0fa;}
+border-color: #ab82ff;}
   .navbar {
       margin-bottom: 0;
-      background-color: #05a0fa;
+      background-color: #ab82ff;
       z-index: 9999;
       border: 0;
       font-size: 12px !important;
@@ -190,9 +190,6 @@ border-color: #05a0fa;}
     .col-sm-4 {
       text-align: center;
       margin: 25px 0;
-         display: grid; 
-         grid-template-columns: 1fr 1fr;
-             grid-template-rows:[row1-start] 50% [row1-end row2-start] 50% [row2-end]; 
     }
     .btn-lg {
         width: 100%;
