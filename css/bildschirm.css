@@ -16,19 +16,19 @@ h1 {
 }
 
 h3 {
-    color:#000000
+    color:#000000;
 }
 
 p {
-   color: #000000 
+   color: #000000;
 }
 
 li {
-    color: #000000
+    color: #000000;
 }
 
 strong { 
- color: #000000   
+ color: #000000;   
 }
 
   h2 {
@@ -54,7 +54,7 @@ strong {
   }
   .container-fluid {
       padding: 60px 50px;
-      background-color: #c6e2ff;
+      background-color: #05a0fa;
   }
   .abstand{
     margin-top: 50px;;
