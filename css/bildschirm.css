@@ -12,24 +12,24 @@ body {
   }
 
 h1 {
-   color:#000000; 
-}
+     color:#000000; 
+  }
 
 h3 {
     color:#000000;
-}
+  }
 
 p {
    color: #000000;
-}
+  }
 
 li {
     color: #000000;
-}
+  }
 
 strong { 
- color: #000000;   
-}
+     color: #000000;   
+  }
 
   h2 {
       font-size: 24px;
@@ -54,7 +54,7 @@ strong {
   }
   .container-fluid {
       padding: 60px 50px;
-      background-color: #05a0fa;
+      background-color: #cae1ff;
   }
   .abstand{
     margin-top: 50px;;
