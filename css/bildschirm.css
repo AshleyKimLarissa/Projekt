@@ -15,6 +15,22 @@ h1 {
    color:#000000; 
 }
 
+h3 {
+    color:#000000
+}
+
+p {
+   color: #000000 
+}
+
+li {
+    color: #000000
+}
+
+strong { 
+ color: #000000   
+}
+
   h2 {
       font-size: 24px;
       text-transform: uppercase;
@@ -129,8 +145,8 @@ h1 {
       background-color: #05a0fa;
       color: #fff;
   }
-.farbe{background-color: #ab82ff;
-border-color: #ab82ff;}
+.farbe{background-color: #05a0fa;
+border-color: #05a0fa;}
   .navbar {
       margin-bottom: 0;
       background-color: #ab82ff;
