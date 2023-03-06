@@ -8,7 +8,7 @@ background-repeat: no-repeat;}
 body {
       font: 400 15px Lato, sans-serif;
       line-height: 1.8;
-      color: #c6e2ff;
+      color: #818181;
   }
 
 h1 {
@@ -38,6 +38,7 @@ h1 {
   }
   .container-fluid {
       padding: 60px 50px;
+      background-color: #c6e2ff;
   }
   .abstand{
     margin-top: 50px;;
